@@ -1,0 +1,14 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud de usuarios",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tatiane",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
